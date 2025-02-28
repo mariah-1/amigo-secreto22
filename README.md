@@ -1,5 +1,5 @@
 <div align"center">
-<img src="https://github.com/user-attachments/assets/2c0148ca-c14d-4798-acde-3f32e268114f" width="400px" />
+<img src="https://github.com/mariah-1/amigo-secreto22/blob/main/assets/amigo-secreto.png" width="400px" />
 </div>
 
 <h1>Amigo Secreto</h1>
@@ -30,6 +30,6 @@ Este projeto é uma implementação simples de Amigo Secreto onde os usuários p
 ## desenvolvedores
 A estrutura do **HTML** e o estilo **CSS** foram fornecidos pelo time da **alura**, e a lógica de sorteio e interação foi implementada por mim utilizando **JavaScript**.
 
-<img src="https://github.com/user-attachments/assets/2b04967d-bbda-42bb-aacb-152ed97a79d3" width="100px" style="border: 5px solid #FF5733;" />
+<img src="https://github.com/mariah-1/amigo-secreto22/blob/main/assets/mh1.jpeg" width="100px" style="border: 5px solid #FF5733;" />
 
 
