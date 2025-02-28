@@ -4,7 +4,7 @@
     --color-tertiary: #a3a3a3;
     --color-button: #ffc64c;
     --color-button-hover: #e55720;
-    --color-text: #faee47;
+    --color-text: #494945;
     --color-white: #353535;
 }
 
@@ -142,7 +142,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #ffae00;
+    color: #e55720;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
