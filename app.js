@@ -16,15 +16,14 @@ function adicionarAmigo() {
 }
 
 function mostrarAmigos() {
-  let listaElement = document.getElementById('listaAmigos');
-  listaElement.innerHTML = "";
+  let listaAmigos = document.getElementById('listaAmigos');
+  listaAmigos.innerHTML = "";
 
   amigos.forEach(function(amigo) {
-    listaElement.innerHTML += `<li>${amigo}</li>`;
+    listaAmigos.innerHTML += `<li>${amigo}</li>`;
   });
 }
 
-// Função para sortear um amigo aleatório
 function sortearAmigo() {
   if (amigos.length === 0) {
     alert("Adicione pelo menos um amigo!");
@@ -41,5 +40,8 @@ function mostrarResultado(amigoSorteado) {
   let resultadoElement = document.getElementById('resultado');
   resultadoElement.innerHTML = "";
 
+  document.getElementById('listaAmigos').innerHTML = "";
+  
   resultadoElement.innerHTML = `<li>A pessoa sorteada é: ${amigoSorteado}</li>`;
+
 }
