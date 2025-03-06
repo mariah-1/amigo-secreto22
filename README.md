@@ -8,11 +8,6 @@
 
 Este projeto é uma implementação simples de Amigo Secreto onde os usuários podem adicionar amigos à lista, sortear um amigo aleatório e ver o resultado na tela.
 
-## Funcionalidades
-+ **Adicionar amigos**: Você pode digitar o nome de um amigo e adicioná-lo à lista.
-+ **Sortear amigo** secreto: Após adicionar amigos à lista, você pode sortear um amigo aleatório.
-+ **Exibir o resultado**: O nome do amigo sorteado será exibido na tela.
-
 ## Como Funciona
 1. **Adicionar amigos**:
 + Digite o nome de um amigo no campo de entrada e clique no botão "Adicionar".
